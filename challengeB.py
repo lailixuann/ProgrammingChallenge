@@ -32,7 +32,7 @@ def read_file(input_file, output_file):
     obj = content.split(',')
 
     with open(output_file, 'w') as output_file:
-        for i in obj[:5]:
+        for i in obj:
             i = i.strip()
             obj_type = identify_obj_type(i)
             output_file.write(f"Object: '{i}', Type: {obj_type}")
