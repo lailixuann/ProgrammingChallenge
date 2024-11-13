@@ -1,0 +1,1 @@
+Object: 'c', Type: Alphabetical StringObject: '81073', Type: IntegerObject: '511043', Type: IntegerObject: 'eaAsY87ga1', Type: AlphanumericObject: '-555382.9491735047', Type: Real Number
